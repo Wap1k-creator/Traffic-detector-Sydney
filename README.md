@@ -2,7 +2,8 @@
 
 A desktop application that connects to **live Transport for NSW traffic cameras** and detects vehicles in real time using a **custom-trained YOLOv8 model**. It counts cars, trucks, buses, and motorcycles per frame, classifies congestion levels, and tracks trends over time — all in a responsive PyQt5 dashboard.
 
-![Uploading image.png…]()
+<img width="977" height="575" alt="image" src="https://github.com/user-attachments/assets/972f30d4-4743-485d-b8a0-2ebd44e2cd3a" />
+
 
 ## Features
 
